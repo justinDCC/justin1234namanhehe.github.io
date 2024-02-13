@@ -1,4 +1,6 @@
 # justin1234namanhehe.github.io
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
